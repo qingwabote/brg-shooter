@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/brg_shooter.unity
     guid: f9e3cbf4310160c45a0cab2e00c2e7ac
+  - enabled: 1
+    path: Assets/Scenes/MaterialOverrideBRG.unity
+    guid: 2fd9ba9f19662c14f9a8f65f58df0b41
   m_configObjects: {}
